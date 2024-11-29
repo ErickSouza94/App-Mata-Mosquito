@@ -27,5 +27,4 @@ Uso de eventos (como click) para interatividade.
 Implementação de lógica de jogo (escolha de dificuldade, tempo para ações, etc.).
 
 ## Para jogar
-Entre neste link:
-app-mata-mosquito-tau.vercel.app
+[Clique aqui para jogar o App Mata Mosquito](https://app-mata-mosquito-tau.vercel.app)
