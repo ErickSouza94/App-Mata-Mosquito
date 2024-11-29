@@ -25,3 +25,7 @@ Este projeto tem como objetivo desenvolver e aprimorar as seguintes habilidades:
 Manipulação do DOM e BOM com JavaScript.
 Uso de eventos (como click) para interatividade.
 Implementação de lógica de jogo (escolha de dificuldade, tempo para ações, etc.).
+
+## Para jogar
+Entre neste link:
+app-mata-mosquito-tau.vercel.app
